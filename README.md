@@ -2,7 +2,7 @@
 - 👀 I’m interested in all type of softwares development. Design and architecture of software is the most significant part of software development form me. 
 - 🌱 I’m currently learning and working on Android Devlopment, html, css, javascrip, jquery and django. 
 - 💞️ I’m looking to collaborate on Java projects, Android using Kotlin, frontend with js, css and html, backend with django, software requirment modeling and UI/UX design.
-- <br>
+ <br>
 - 📫 You can contact me with the following:
   Email: rashidstanikzai.net@gmail.com
   Whatsapp: +92 321 2783997
