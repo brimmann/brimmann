@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning and working on Android Devlopment, html, css, javascrip, jquery and django. 
 - 💞️ I’m looking to collaborate on Java projects, Android using Kotlin, frontend with js, css and html, backend with django, software requirment modeling and UI/UX design.
  <br>
-- 📫 You can contact me with the following:
-  Email: rashidstanikzai.net@gmail.com
-  Whatsapp: +92 321 2783997
-  Instagram: brimman
-  Facebook: https://www.facebook.com/rashidsfnet/
+ <div>📫 You can contact me with the following:
+ <div>Email: rashidstanikzai.net@gmail.com</div>
+ <div> WhatsApp: +92 321 2783997</div>
+ <div>Instagram: brimman</div>
+ <div>Facebook: https://www.facebook.com/rashidsfnet/</div>
 
 <!---
 hunter4923/hunter4923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
