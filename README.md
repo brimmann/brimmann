@@ -6,7 +6,7 @@
  <div>📫 You can contact me with the following:
  <div>Email: rashidstanikzai.net@gmail.com</div>
  <div> WhatsApp: +92 321 2783997</div>
- <div>Instagram: brimman</div>
+ <div>Instagram: https://www.instagram.com/brimmann/</div>
  <div>Facebook: https://www.facebook.com/rashidsfnet/</div>
 
 <!---
