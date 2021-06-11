@@ -8,6 +8,7 @@
  <div> WhatsApp: +92 321 2783997</div>
  <div>Instagram: https://www.instagram.com/brimmann/</div>
  <div>Facebook: https://www.facebook.com/rashidsfnet/</div>
+ <div> LinkedIn: https://www.linkedin.com/in/mohammad-rashid-7b16451b8
 
 <!---
 hunter4923/hunter4923 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
