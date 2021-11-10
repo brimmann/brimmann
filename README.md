@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rashid, I'm a fresh graduate software engineer.
 - 👀 I’m interested in all type of softwares development. Design and architecture of software is the most significant part of software development form me. 
-- 🌱 I’m currently learning and working on Vue.
+- 🌱 I’m currently working on some projects with Vue.
 - 💞️ I’m looking to collaborate on Java projects, Android using Kotlin, frontend with js, css, html and vue, backend with django, software requirment modeling and UI/UX design.
  <br>
  <div>📫 You can contact me with the following:
