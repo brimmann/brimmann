@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on some projects with Vue.
 - 💞️ I’m looking to collaborate on web development using Django and VueJS, software requirment modeling and UI/UX design.
  <br>
- <div>📫 You can contact me with the following:
+ <div>📫 You can contact me through the following:
  <div>Email: rashidstanikzai.net@gmail.com</div>
  <div> WhatsApp: +92 321 2783997</div>
  <div>Instagram: https://www.instagram.com/brimmann/</div>
