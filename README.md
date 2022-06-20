@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on some projects with Vue.
 - 💞️ I’m looking to collaborate on web development using Django and VueJS, software requirment modeling and UI/UX design.
  <br>
- <div>My Fiverr gig: https://www.fiverr.com/share/xldZZ4</div>
  <br>
  <div>📫 You can contact me through the following:
  <div>Email: rashidstanikzai.net@gmail.com</div>
