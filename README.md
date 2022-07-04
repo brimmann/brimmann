@@ -1,6 +1,6 @@
 * 👋 Hi, I’m Rashid, I'm a software engineer
 * 👀 I’m interested in all type of softwares development
-* 🌱 I’m currently working on some projects with Vue and Django
+* 🌱 I’m currently working on some projects with Vue and Django REST Framework
 * 📫 I can be reached through rashidstanikzai.net@gmail.com or [@rashidfnet](https://www.facebook.com/rashidsfnet)
  
 <!---
