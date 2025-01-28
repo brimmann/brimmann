@@ -1,6 +1,6 @@
-* 👋 Hi, I’m Rashid, I'm a software engineer
-* 👀 I’m interested in all type of softwares development
-* 🌱 I’m currently working on some projects with Vue and Django REST Framework
+* 👋 Hi, I’m Rashid, I'm a software engineer.
+* 👀 I’m interested in all type of softwares development.
+* 🌱 I’m currently working on some deep learning projects.
 * 📫 I can be reached through [@myX](x.com/brimmannn)  or [@myFacebook](https://www.facebook.com/rashidsfnet)
  
 <!---
